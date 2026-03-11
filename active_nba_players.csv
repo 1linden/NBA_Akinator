@@ -1,0 +1,496 @@
+player_name,draft_pick_number,draft_year,position,team,age,made_all_star,num_championships,won_mvp,won_dpoy,made_all_nba,made_all_defence,ppg_career_high,apg_career_high,rpg_career_high,played_in_playoffs
+Precious Achiuwa,20,2020.0,Forward,Kings,26,0,0,0,0,0,0,9.2,1.3,6.6,1
+Steven Adams,12,2013.0,Center,Rockets,32,0,0,0,0,0,0,13.9,3.4,11.5,1
+Bam Adebayo,14,2017.0,Center,Heat,28,1,0,0,0,0,1,20.4,5.4,10.4,1
+Ochai Agbaji,14,2022.0,Guard,Nets,25,0,0,0,0,0,0,10.4,1.5,3.8,0
+Santi Aldama,30,2021.0,Forward,Grizzlies,25,0,0,0,0,0,0,14.0,2.9,6.7,1
+Trey Alexander,61,,Guard,Pelicans,22,0,0,0,0,0,0,2.8,1.0,0.8,0
+Nickeil Alexander-Walker,17,2019.0,Guard,Hawks,27,0,0,0,0,0,0,19.9,3.8,3.5,1
+Grayson Allen,21,2018.0,Guard,Suns,30,0,0,0,0,0,0,17.5,4.2,3.9,1
+Jarrett Allen,22,2017.0,Center,Cavaliers,27,1,0,0,0,0,0,16.5,2.7,10.8,1
+Jose Alvarado,61,,Guard,Knicks,27,0,0,0,0,0,0,10.3,4.6,2.6,1
+Kyle Anderson,30,2014.0,Forward,Timberwolves,32,0,0,0,0,0,0,12.4,4.9,5.8,1
+Giannis Antetokounmpo,15,2013.0,Forward,Bucks,31,1,1,1,1,1,1,31.1,6.5,13.6,1
+Thanasis Antetokounmpo,51,2014.0,Forward,Bucks,33,0,1,0,0,0,0,3.6,0.8,2.2,1
+OG Anunoby,23,2017.0,Forward,Knicks,28,0,1,0,0,0,1,18.0,2.6,5.5,1
+Deni Avdija,9,2020.0,Forward,Trail Blazers,25,1,0,0,0,0,0,24.3,6.7,7.3,0
+Deandre Ayton,1,2018.0,Center,Lakers,27,0,0,0,0,0,0,18.2,1.9,11.5,1
+Marvin Bagley III,2,2018.0,Forward,Mavericks,26,0,0,0,0,0,0,14.9,1.4,7.6,1
+Ace Bailey,5,2025.0,Forward,Jazz,19,0,0,0,0,0,0,12.4,1.7,4.0,0
+LaMelo Ball,3,2020.0,Guard,Hornets,24,1,0,0,0,0,0,25.2,8.4,6.7,0
+Paolo Banchero,1,2022.0,Forward,Magic,23,1,0,0,0,0,0,25.9,5.4,8.6,1
+Desmond Bane,30,2020.0,Guard,Magic,27,0,0,0,0,0,0,23.7,5.5,6.1,1
+Dominick Barlow,61,,Forward,76ers,22,0,0,0,0,0,0,8.1,1.2,4.7,0
+Harrison Barnes,7,2012.0,Forward,Spurs,33,0,1,0,0,0,0,19.2,3.5,6.6,1
+Scottie Barnes,4,2021.0,Forward,Raptors,24,1,0,0,0,0,0,19.9,6.1,8.2,1
+Brooks Barnhizer,44,2025.0,Guard,Thunder,24,0,0,0,0,0,0,1.4,0.5,1.7,0
+RJ Barrett,3,2019.0,Forward,Raptors,25,0,0,0,0,0,0,21.1,5.4,6.3,1
+Jamison Battle,61,,Forward,Raptors,24,0,0,0,0,0,0,7.1,0.9,2.7,0
+Nicolas Batum,25,2008.0,Guard,Clippers,37,0,0,0,0,0,0,15.1,5.9,7.5,1
+Bradley Beal,3,2012.0,Guard,Clippers,32,1,0,0,0,1,0,31.3,6.6,5.0,1
+Joan Beringer,17,2025.0,Forward,Timberwolves,19,0,0,0,0,0,0,3.0,0.2,1.9,0
+Saddiq Bey,19,2020.0,Guard,Pelicans,26,0,0,0,0,0,0,17.5,2.8,6.5,1
+Goga Bitadze,18,2019.0,Center,Magic,26,0,0,0,0,0,0,7.2,2.0,6.6,1
+Bismack Biyombo,7,2011.0,Center,Spurs,33,0,0,0,0,0,0,7.4,1.3,8.0,1
+Anthony Black,6,2023.0,Guard,Magic,22,0,0,0,0,0,0,15.3,3.8,3.9,1
+Bogdan Bogdanović,27,2014.0,Guard,Clippers,33,0,0,0,0,0,0,16.9,3.8,4.0,1
+Adem Bona,41,2024.0,Forward,76ers,22,0,0,0,0,0,0,5.8,0.5,4.2,0
+Devin Booker,13,2015.0,Guard,Suns,29,1,0,0,0,1,0,27.8,7.1,5.0,1
+Christian Braun,21,2022.0,Guard,Nuggets,24,0,1,0,0,0,0,15.4,3.0,5.2,1
+Koby Brea,41,2025.0,Guard,Suns,23,0,0,0,0,0,0,3.2,0.6,0.4,0
+Mikal Bridges,10,2018.0,Guard,Knicks,29,0,0,0,0,0,1,20.1,4.0,4.5,1
+Miles Bridges,12,2018.0,Forward,Hornets,27,0,0,0,0,0,0,21.0,3.9,7.5,0
+Dillon Brooks,45,2017.0,Guard,Suns,30,0,0,0,0,0,1,20.9,2.8,3.7,1
+Johni Broome,35,2025.0,Forward,76ers,23,0,0,0,0,0,0,0.9,0.4,1.5,0
+Bruce Brown,42,2018.0,Guard,Nuggets,29,0,1,0,0,0,0,11.5,4.0,5.4,1
+Jaylen Brown,3,2016.0,Guard,Celtics,29,1,1,0,0,1,0,28.7,5.1,7.2,1
+Kobe Brown,30,2023.0,Forward,Pacers,26,0,0,0,0,0,0,4.4,0.9,2.5,1
+Jalen Brunson,33,2018.0,Guard,Knicks,29,1,0,0,0,1,0,28.7,7.3,3.9,1
+Carter Bryant,14,2025.0,Forward,Spurs,20,0,0,0,0,0,0,3.5,0.4,2.3,0
+Thomas Bryant,42,2017.0,Center,Cavaliers,28,0,1,0,0,0,0,14.3,1.8,7.2,1
+Jimmy Butler III,30,2011.0,Forward,Warriors,36,1,0,0,0,1,1,23.9,7.1,6.9,1
+Matas Buzelis,11,2024.0,Forward,Bulls,21,0,0,0,0,0,0,15.4,2.1,5.5,0
+Jamal Cain,61,,Forward,Magic,26,0,0,0,0,0,0,5.4,0.7,2.9,0
+Kentavious Caldwell-Pope,8,2013.0,Guard,Grizzlies,33,0,2,0,0,0,0,14.5,2.7,5.2,1
+Toumani Camara,52,2023.0,Forward,Trail Blazers,25,0,0,0,0,0,1,12.9,2.5,5.8,0
+Clint Capela,25,2014.0,Center,Rockets,31,0,0,0,0,0,0,16.6,1.4,14.3,1
+Dylan Cardwell,61,,Center,Kings,24,0,0,0,0,0,0,5.4,1.2,7.7,0
+Branden Carlson,61,,Center,Thunder,26,0,1,0,0,0,0,4.9,0.6,2.6,0
+Bub Carrington,14,2024.0,Guard,Wizards,20,0,0,0,0,0,0,9.8,4.5,4.2,0
+Devin Carter,13,2024.0,Guard,Kings,23,0,0,0,0,0,0,6.1,2.1,2.5,0
+Jevon Carter,32,2018.0,Guard,Magic,30,0,0,0,0,0,0,8.0,2.4,2.5,1
+Wendell Carter Jr.,7,2018.0,Center,Magic,26,0,0,0,0,0,0,15.2,2.8,10.5,1
+Alex Caruso,61,,Guard,Thunder,32,0,2,0,0,0,1,10.1,4.0,3.8,1
+Stephon Castle,4,2024.0,Guard,Spurs,21,0,0,0,0,0,0,16.4,6.9,4.9,0
+Colin Castleton,61,,Center,Magic,25,0,0,0,0,0,0,4.7,1.1,4.7,0
+Julian Champagnie,61,,Forward,Spurs,24,0,0,0,0,0,0,11.4,1.5,5.8,0
+Justin Champagnie,61,,Guard,Wizards,24,0,0,0,0,0,0,8.8,1.3,5.7,1
+Cam Christie,46,2024.0,Guard,Clippers,20,0,0,0,0,0,0,3.1,0.6,1.5,1
+Max Christie,35,2022.0,Guard,Mavericks,23,0,0,0,0,0,0,12.8,2.2,3.5,1
+Moussa Cisse,61,,Center,Mavericks,23,0,0,0,0,0,0,3.7,0.2,4.9,0
+Sidy Cissoko,44,2023.0,Guard,Trail Blazers,21,0,0,0,0,0,0,5.8,1.5,2.4,0
+Jaylen Clark,53,2023.0,Guard,Timberwolves,24,0,0,0,0,0,0,4.1,0.7,1.8,1
+Brandon Clarke,21,2019.0,Forward,Grizzlies,29,0,0,0,0,0,0,12.1,1.6,5.9,1
+Jordan Clarkson,46,2014.0,Guard,Knicks,33,0,0,0,0,0,0,20.8,5.0,4.0,1
+Nic Claxton,31,2019.0,Center,Nets,26,0,0,0,0,0,0,12.6,3.9,9.9,1
+Walter Clayton Jr.,18,2025.0,Guard,Grizzlies,23,0,0,0,0,0,0,7.1,3.8,2.0,0
+Nique Clifford,24,2025.0,Guard,Kings,24,0,0,0,0,0,0,7.3,1.9,3.5,0
+Donovan Clingan,7,2024.0,Center,Trail Blazers,22,0,0,0,0,0,0,11.8,2.1,11.5,0
+Noah Clowney,21,2023.0,Forward,Nets,21,0,0,0,0,0,0,12.9,1.7,4.2,0
+Amir Coffey,61,,Guard,Suns,28,0,0,0,0,0,0,9.7,1.8,2.9,1
+Isaiah Collier,29,2024.0,Guard,Jazz,21,0,0,0,0,0,0,11.4,7.3,3.3,0
+John Collins,19,2017.0,Forward,Clippers,28,0,0,0,0,0,0,21.6,2.0,10.1,1
+Zach Collins,10,2017.0,Forward,Bulls,28,0,0,0,0,0,0,11.6,2.9,6.4,1
+Mike Conley,4,2007.0,Guard,Timberwolves,38,1,0,0,0,0,1,21.1,6.7,3.5,1
+Pat Connaughton,41,2015.0,Guard,Hornets,33,0,1,0,0,0,0,9.9,2.1,4.8,1
+Sharife Cooper,48,2021.0,Guard,Wizards,24,0,0,0,0,0,0,7.3,2.5,2.1,0
+Bilal Coulibaly,7,2023.0,Guard,Wizards,21,0,0,0,0,0,0,12.3,3.4,5.0,0
+Cedric Coward,11,2025.0,Guard,Grizzlies,22,0,0,0,0,0,0,13.4,2.8,6.2,0
+Isaiah Crawford,61,,Forward,Rockets,24,0,0,0,0,0,0,1.1,0.3,0.7,0
+Cade Cunningham,1,2021.0,Guard,Pistons,24,1,0,0,0,1,0,26.1,9.8,6.2,1
+Stephen Curry,7,2009.0,Guard,Warriors,37,1,4,1,0,1,0,32.0,8.5,6.1,1
+Pacôme Dadiet,25,2024.0,Forward,Knicks,20,0,0,0,0,0,0,1.7,0.4,1.0,1
+Dyson Daniels,8,2022.0,Guard,Hawks,22,0,0,0,0,0,1,14.1,6.1,6.6,1
+Anthony Davis,1,2012.0,Forward,Wizards,32,1,1,0,0,1,1,28.1,3.9,12.6,1
+JD Davison,53,2022.0,Guard,Rockets,23,0,0,0,0,0,0,2.2,1.3,1.3,1
+DeMar DeRozan,9,2009.0,Guard,Kings,36,1,0,0,0,1,0,27.9,6.9,6.0,1
+RayJ Dennis,61,,Guard,Hawks,24,0,0,0,0,0,0,4.3,2.0,1.5,0
+Donte DiVincenzo,17,2018.0,Guard,Timberwolves,29,0,1,0,0,0,0,15.5,4.2,5.8,1
+Moussa Diabaté,43,2022.0,Forward,Hornets,24,0,0,0,0,0,0,8.3,1.8,8.7,0
+Mohamed Diawara,51,2025.0,Forward,Knicks,20,0,0,0,0,0,0,3.3,0.6,1.3,0
+Gradey Dick,13,2023.0,Guard,Raptors,22,0,0,0,0,0,0,14.4,1.8,3.6,0
+Hunter Dickinson,61,,Center,Pelicans,25,0,0,0,0,0,0,2.0,0.0,0.0,0
+Ousmane Dieng,11,2022.0,Forward,Bucks,22,0,1,0,0,0,0,5.3,1.5,2.7,1
+Rob Dillingham,8,2024.0,Guard,Bulls,21,0,0,0,0,0,0,4.5,2.0,1.6,1
+Luka Dončić,3,2018.0,Forward,Lakers,27,1,0,0,0,1,0,33.9,9.8,9.4,1
+Luguentz Dort,61,,Guard,Thunder,26,0,1,0,0,0,1,17.2,2.1,4.6,1
+Ayo Dosunmu,38,2021.0,Guard,Timberwolves,26,0,0,0,0,0,0,14.2,4.5,3.5,1
+Andre Drummond,9,2012.0,Center,76ers,32,1,0,0,0,1,0,17.7,3.0,16.0,1
+Kris Dunn,5,2016.0,Guard,Clippers,31,0,0,0,0,0,0,13.4,6.0,4.5,1
+Ryan Dunn,28,2024.0,Forward,Suns,23,0,0,0,0,0,0,6.9,1.4,4.2,0
+Kevin Durant,2,2007.0,Forward,Rockets,37,1,2,1,0,1,0,32.0,6.4,8.3,1
+Jalen Duren,13,2022.0,Center,Pistons,22,1,0,0,0,0,0,18.5,2.7,11.6,1
+Egor Dëmin,8,2025.0,Guard,Nets,20,0,0,0,0,0,0,10.3,3.3,3.2,0
+Tari Eason,17,2022.0,Forward,Rockets,24,0,0,0,0,0,0,12.0,1.7,7.0,1
+Zach Edey,9,2024.0,Center,Grizzlies,23,0,0,0,0,0,0,13.6,1.1,11.1,1
+VJ Edgecombe,3,2025.0,Guard,76ers,20,0,0,0,0,0,0,15.3,3.9,5.5,0
+Anthony Edwards,1,2020.0,Guard,Timberwolves,24,1,0,0,0,1,0,29.6,5.1,5.8,1
+Justin Edwards,61,,Forward,76ers,22,0,0,0,0,0,0,10.1,1.6,3.4,0
+Keon Ellis,61,,Guard,Cavaliers,26,0,0,0,0,0,0,8.3,1.5,2.7,0
+Joel Embiid,3,2014.0,Center,76ers,31,1,0,1,0,1,1,34.7,5.6,13.6,1
+Noa Essengue,12,2025.0,Forward,Bulls,19,0,0,0,0,0,0,0.0,0.0,0.0,0
+Tyson Etienne,61,,Guard,Nets,26,0,0,0,0,0,0,7.9,1.7,1.3,0
+Drew Eubanks,61,,Forward,Kings,29,0,0,0,0,0,0,7.7,1.3,5.4,1
+Tosan Evbuomwan,61,,Forward,Hornets,25,0,0,0,0,0,0,9.5,2.0,4.3,0
+Danté Exum,5,2014.0,Guard,Mavericks,30,0,0,0,0,0,0,8.7,3.1,2.8,1
+Jeremiah Fears,7,2025.0,Guard,Pelicans,19,0,0,0,0,0,0,13.2,3.3,3.7,0
+Kyle Filipowski,32,2024.0,Center,Jazz,22,0,0,0,0,0,0,10.3,2.2,6.9,0
+Dorian Finney-Smith,61,,Forward,Rockets,32,0,0,0,0,0,0,11.0,1.9,5.7,1
+Cooper Flagg,1,2025.0,Forward,Mavericks,19,0,0,0,0,0,0,20.2,4.2,6.6,0
+Rasheer Fleming,31,2025.0,Forward,Suns,21,0,0,0,0,0,0,3.4,0.2,1.8,0
+Simone Fontecchio,61,,Forward,Heat,30,0,0,0,0,0,0,10.5,1.5,3.7,0
+De'Aaron Fox,5,2017.0,Guard,Spurs,28,1,0,0,0,1,0,26.6,7.3,4.8,1
+Enrique Freeman,50,2024.0,Forward,Timberwolves,25,0,0,0,0,0,0,2.1,0.4,1.5,0
+Johnny Furphy,35,2024.0,Guard,Pacers,21,0,0,0,0,0,0,5.1,1.2,4.4,1
+Daniel Gafford,38,2019.0,Forward,Mavericks,27,0,0,0,0,0,0,12.3,1.6,7.6,1
+Myron Gardner,61,,Forward,Heat,24,0,0,0,0,0,0,3.9,1.0,2.9,0
+Darius Garland,5,2019.0,Guard,Clippers,26,1,0,0,0,0,0,21.7,8.6,3.3,1
+Luka Garza,52,2021.0,Center,Celtics,27,0,0,0,0,0,0,7.3,0.9,3.9,1
+Keyonte George,16,2023.0,Guard,Jazz,22,0,0,0,0,0,0,24.0,6.3,3.8,0
+Kyshawn George,24,2024.0,Forward,Wizards,22,0,0,0,0,0,0,14.8,4.5,5.1,0
+Paul George,10,2010.0,Forward,76ers,35,1,0,0,0,1,1,28.0,5.7,8.2,1
+Josh Giddey,6,2021.0,Guard,Bulls,23,0,0,0,0,0,0,17.6,8.5,8.3,1
+Shai Gilgeous-Alexander,11,2018.0,Guard,Thunder,27,1,1,1,0,1,0,32.7,6.4,5.9,1
+Anthony Gill,61,,Forward,Wizards,33,0,0,0,0,0,0,4.1,0.9,2.3,1
+Collin Gillespie,61,,Guard,Suns,26,0,0,0,0,0,0,13.6,4.8,4.1,0
+Rudy Gobert,27,2013.0,Center,Timberwolves,33,1,0,0,1,1,1,15.9,2.0,14.7,1
+Vladislav Goldin,61,,Center,Heat,24,0,0,0,0,0,0,1.3,0.7,1.0,0
+Hugo González,28,2025.0,Guard,Celtics,20,0,0,0,0,0,0,4.2,0.6,3.5,0
+Jordan Goodwin,61,,Guard,Suns,27,0,0,0,0,0,0,8.9,2.7,4.7,1
+Aaron Gordon,4,2014.0,Forward,Nuggets,30,0,1,0,0,0,0,17.6,3.7,7.9,1
+Jerami Grant,39,2014.0,Forward,Trail Blazers,31,0,0,0,0,0,0,22.3,2.8,5.2,1
+AJ Green,61,,Guard,Bucks,26,0,0,0,0,0,0,9.9,1.9,2.5,1
+Draymond Green,35,2012.0,Forward,Warriors,36,1,4,0,1,1,1,14.0,8.9,9.5,1
+Jalen Green,2,2021.0,Guard,Suns,24,0,0,0,0,0,0,22.1,3.7,5.2,1
+Javonte Green,61,,Guard,Pistons,32,0,0,0,0,0,0,12.2,0.9,7.4,1
+Jeff Green,5,2007.0,Forward,Rockets,39,0,1,0,0,0,0,16.9,2.0,6.7,1
+Josh Green,18,2020.0,Guard,Hornets,25,0,0,0,0,0,0,9.1,2.3,3.2,1
+Quentin Grimes,25,2021.0,Guard,76ers,25,0,0,0,0,0,0,14.6,3.4,4.3,1
+Mouhamed Gueye,39,2023.0,Forward,Hawks,23,0,0,0,0,0,0,6.0,0.9,4.2,0
+Rui Hachimura,9,2019.0,Forward,Lakers,28,0,0,0,0,0,0,13.8,1.8,6.1,1
+Tyrese Haliburton,12,2020.0,Guard,Pacers,26,1,0,0,0,1,0,20.7,10.9,4.0,1
+PJ Hall,61,,Center,Hornets,24,0,0,0,0,0,0,4.5,0.5,3.9,0
+Tim Hardaway Jr.,24,2013.0,Guard,Nuggets,33,0,0,0,0,0,0,18.1,2.7,3.9,1
+James Harden,3,2009.0,Guard,Cavaliers,36,1,0,1,0,1,0,36.1,11.2,8.1,1
+Jaden Hardy,37,2022.0,Guard,Wizards,23,0,0,0,0,0,0,8.8,1.5,1.9,1
+Elijah Harkless,61,,Guard,Jazz,26,0,0,0,0,0,0,3.6,1.9,2.1,0
+Dylan Harper,2,2025.0,Guard,Spurs,20,0,0,0,0,0,0,11.2,3.7,3.2,0
+Ron Harper Jr.,61,,Guard,Celtics,25,0,0,0,0,0,0,4.0,2.0,7.0,0
+Gary Harris,19,2014.0,Guard,Bucks,31,0,0,0,0,0,0,17.5,2.9,3.1,1
+Kevon Harris,61,,Guard,Magic,28,0,0,0,0,0,0,4.1,0.5,2.1,0
+Tobias Harris,19,2011.0,Forward,Pistons,33,0,0,0,0,0,0,20.0,3.5,7.9,1
+Josh Hart,30,2017.0,Guard,Knicks,31,0,0,0,0,0,0,14.9,5.9,9.6,1
+Isaiah Hartenstein,43,2017.0,Center,Thunder,27,0,1,0,0,0,0,11.2,3.8,10.7,1
+Sam Hauser,61,,Forward,Celtics,28,0,1,0,0,0,0,9.3,1.5,3.9,1
+Jordan Hawkins,14,2023.0,Guard,Pelicans,23,0,0,0,0,0,0,10.8,1.2,2.8,1
+Jaxson Hayes,8,2019.0,Center,Lakers,25,0,0,0,0,0,0,9.3,1.0,4.8,1
+Scoot Henderson,3,2023.0,Guard,Trail Blazers,22,0,0,0,0,0,0,14.0,5.4,3.1,0
+Taylor Hendricks,9,2023.0,Forward,Grizzlies,22,0,0,0,0,0,0,7.3,0.9,5.0,0
+Chucky Hepburn,61,,Guard,Raptors,23,0,0,0,0,0,0,0.0,1.0,0.5,0
+Tyler Herro,13,2019.0,Guard,Heat,26,1,0,0,0,0,0,23.9,5.5,5.4,1
+Buddy Hield,6,2016.0,Guard,Hawks,33,0,0,0,0,0,0,20.7,3.6,5.0,1
+Haywood Highsmith,61,2018.0,Forward,Suns,29,0,0,0,0,0,0,6.5,1.5,3.5,1
+Aaron Holiday,23,2018.0,Guard,Rockets,29,0,0,0,0,0,0,9.5,3.4,2.4,1
+Jrue Holiday,17,2009.0,Guard,Trail Blazers,35,1,2,0,0,0,1,21.2,8.0,5.4,1
+Ronald Holland II,5,2024.0,Forward,Pistons,20,0,0,0,0,0,0,8.3,1.3,4.4,1
+DaRon Holmes II,22,2024.0,Forward,Nuggets,23,0,0,0,0,0,0,4.4,0.8,1.5,0
+Chet Holmgren,2,2022.0,Center,Thunder,23,1,1,0,0,0,0,17.3,2.4,9.0,1
+Al Horford,3,2007.0,Center,Warriors,39,1,1,0,0,1,1,18.6,5.0,10.2,1
+Caleb Houstan,32,2022.0,Guard,Hawks,23,0,0,0,0,0,0,4.3,0.6,1.9,1
+Jett Howard,11,2023.0,Guard,Magic,22,0,0,0,0,0,0,5.2,0.9,1.5,1
+Kevin Huerter,19,2018.0,Guard,Pistons,27,0,0,0,0,0,0,15.2,3.8,4.1,1
+Jay Huff,61,,Center,Pacers,28,0,0,0,0,0,0,9.3,1.4,3.9,1
+Ariel Hukporti,58,2024.0,Center,Knicks,23,0,0,0,0,0,0,1.9,0.5,2.8,1
+De'Andre Hunter,4,2019.0,Forward,Kings,28,0,0,0,0,0,0,17.0,2.0,4.8,1
+CJ Huntley,61,,Forward,Suns,24,0,0,0,0,0,0,,,,0
+Bones Hyland,26,2021.0,Guard,Timberwolves,25,0,0,0,0,0,0,11.8,3.1,2.7,1
+Oso Ighodaro,40,2024.0,Forward,Suns,23,0,0,0,0,0,0,6.0,2.0,4.8,0
+Joe Ingles,61,,Forward,Timberwolves,38,0,0,0,0,0,0,12.1,5.7,4.2,1
+Brandon Ingram,2,2016.0,Forward,Raptors,28,1,0,0,0,0,0,24.7,5.8,6.1,1
+Harrison Ingram,48,2024.0,Forward,Spurs,23,0,0,0,0,0,0,1.8,0.6,1.8,0
+Kyrie Irving,1,2011.0,Guard,Mavericks,33,1,1,0,0,1,0,27.4,6.9,5.2,1
+Jonathan Isaac,6,2017.0,Forward,Magic,28,0,0,0,0,0,0,11.9,1.4,6.8,1
+Jaden Ivey,5,2022.0,Guard,Bulls,24,0,0,0,0,0,0,17.6,5.2,4.1,0
+GG Jackson,45,2023.0,Forward,Grizzlies,21,0,0,0,0,0,0,14.6,1.3,4.3,0
+Isaiah Jackson,22,2021.0,Forward,Clippers,24,0,0,0,0,0,0,8.3,1.0,5.6,1
+Quenton Jackson,61,,Guard,Pacers,27,0,0,0,0,0,0,8.8,2.2,2.2,0
+Andre Jackson Jr.,36,2023.0,Guard,Bucks,24,0,0,0,0,0,0,3.4,1.2,2.7,1
+Jaren Jackson Jr.,4,2018.0,Forward,Jazz,26,1,0,0,1,0,1,22.5,2.3,6.8,1
+Trayce Jackson-Davis,57,2023.0,Forward,Raptors,26,0,0,0,0,0,0,7.9,1.7,5.0,1
+Kasparas Jakučionis,20,2025.0,Guard,Heat,19,0,0,0,0,0,0,5.8,2.4,2.6,0
+Bronny James,55,2024.0,Guard,Lakers,21,0,0,0,0,0,0,2.3,1.2,0.7,1
+LeBron James,1,2003.0,Forward,Lakers,41,1,4,1,0,1,1,31.4,10.2,8.6,1
+Sion James,33,2025.0,Guard,Hornets,23,0,0,0,0,0,0,5.4,1.9,3.4,0
+Jaime Jaquez Jr.,18,2023.0,Guard,Heat,25,0,0,0,0,0,0,15.3,4.6,5.3,1
+Trey Jemison III,61,,Center,Knicks,26,0,0,0,0,0,0,6.8,1.1,5.4,0
+Daniss Jenkins,61,,Guard,Pistons,24,0,0,0,0,0,0,7.5,2.9,1.8,0
+Ty Jerome,24,2019.0,Guard,Grizzlies,28,0,0,0,0,0,0,19.4,5.4,2.8,1
+Isaiah Joe,49,2020.0,Guard,Thunder,26,0,1,0,0,0,0,11.0,1.6,2.6,1
+AJ Johnson,23,2024.0,Guard,Mavericks,21,0,0,0,0,0,0,7.6,2.6,2.0,0
+Cameron Johnson,11,2019.0,Forward,Nuggets,30,0,0,0,0,0,0,18.8,3.4,4.4,1
+Jalen Johnson,20,2021.0,Forward,Hawks,24,1,0,0,0,0,0,22.9,7.9,10.5,1
+Keldon Johnson,29,2019.0,Forward,Spurs,26,0,0,0,0,0,0,22.0,2.9,6.1,0
+Keshad Johnson,61,,Forward,Heat,24,0,0,0,0,0,0,3.2,0.3,1.9,1
+Tre Johnson,6,2025.0,Guard,Wizards,20,0,0,0,0,0,0,12.6,2.0,2.8,0
+Nikola Jokić,41,2014.0,Center,Nuggets,31,1,1,1,0,1,0,29.6,10.3,13.8,1
+Curtis Jones,61,,Guard,Nuggets,24,0,0,0,0,0,0,1.5,0.5,0.8,0
+Herbert Jones,35,2021.0,Forward,Pelicans,27,0,0,0,0,0,1,11.0,3.3,4.1,1
+Isaac Jones,61,,Forward,Pistons,25,0,0,0,0,0,0,3.4,0.3,1.4,0
+Kam Jones,38,2025.0,Guard,Pacers,24,0,0,0,0,0,0,4.0,2.4,1.4,0
+Spencer Jones,61,,Forward,Nuggets,24,0,0,0,0,0,0,5.7,0.8,3.2,0
+Tre Jones,41,2020.0,Guard,Bulls,26,0,0,0,0,0,0,12.9,6.6,3.8,0
+Tyus Jones,24,2015.0,Guard,Nuggets,29,0,0,0,0,0,0,12.0,7.3,2.7,1
+David Jones Garcia,61,,Guard,Spurs,24,0,0,0,0,0,0,2.9,1.6,1.2,0
+Derrick Jones Jr.,61,,Forward,Clippers,29,0,0,0,0,0,0,11.1,1.2,4.0,1
+DeAndre Jordan,35,2008.0,Center,Pelicans,37,1,1,0,0,1,1,12.7,2.3,15.2,1
+Nikola Jović,27,2022.0,Forward,Heat,22,0,0,0,0,0,0,10.7,2.8,4.2,1
+Ryan Kalkbrenner,34,2025.0,Center,Hornets,24,0,0,0,0,0,0,7.9,0.8,5.9,0
+Luke Kennard,12,2017.0,Guard,Lakers,29,0,0,0,0,0,0,15.8,4.1,3.5,1
+Walker Kessler,22,2022.0,Center,Jazz,24,0,0,0,0,0,0,14.4,3.0,12.2,0
+Corey Kispert,15,2021.0,Forward,Hawks,27,0,0,0,0,0,0,13.4,2.0,3.0,0
+Maxi Kleber,61,,Forward,Lakers,34,0,0,0,0,0,0,9.1,1.6,5.9,1
+Bobi Klintman,37,2024.0,Forward,Pistons,23,0,0,0,0,0,0,1.9,0.9,1.6,0
+Dalton Knecht,17,2024.0,Forward,Lakers,24,0,0,0,0,0,0,9.1,0.8,2.8,1
+Kon Knueppel,4,2025.0,Guard,Hornets,20,0,0,0,0,0,0,19.2,3.4,5.3,0
+Tyler Kolek,34,2024.0,Guard,Knicks,24,0,0,0,0,0,0,4.6,2.9,1.7,1
+Christian Koloko,33,2022.0,Center,Hawks,25,0,0,0,0,0,0,3.1,0.6,3.2,0
+John Konchar,61,,Guard,Jazz,29,0,0,0,0,0,0,5.1,2.0,4.7,1
+Luke Kornet,61,,Center,Spurs,30,0,1,0,0,0,0,7.0,1.9,6.3,1
+Vít Krejčí,37,2020.0,Guard,Trail Blazers,25,0,0,0,0,0,0,8.8,2.6,3.4,0
+Jonathan Kuminga,7,2021.0,Forward,Hawks,23,0,1,0,0,0,0,16.1,2.6,6.1,1
+Kyle Kuzma,27,2017.0,Forward,Bucks,30,0,1,0,0,0,0,22.2,4.2,8.5,1
+Jake LaRavia,19,2022.0,Forward,Lakers,24,0,0,0,0,0,0,10.8,2.4,3.9,0
+Zach LaVine,13,2014.0,Guard,Kings,30,1,0,0,0,0,0,27.4,4.9,5.2,1
+Jock Landale,61,,Center,Hawks,30,0,0,0,0,0,0,11.1,1.6,6.0,1
+Chaz Lanier,37,2025.0,Guard,Pistons,24,0,0,0,0,0,0,2.8,0.6,0.9,0
+Pelle Larsson,44,2024.0,Guard,Heat,25,0,0,0,0,0,0,10.4,3.4,3.4,1
+A.J. Lawson,61,,Guard,Raptors,25,0,0,0,0,0,0,9.1,1.2,3.3,1
+Caris LeVert,20,2016.0,Guard,Pistons,31,0,0,0,0,0,0,20.2,5.2,4.6,1
+Kawhi Leonard,15,2011.0,Forward,Clippers,34,1,2,0,1,1,1,27.9,5.2,7.3,1
+E.J. Liddell,41,2022.0,Forward,Nets,25,0,0,0,0,0,0,2.2,0.3,1.1,1
+Damian Lillard,6,2012.0,Guard,Trail Blazers,35,1,0,0,0,1,0,32.2,8.0,4.9,1
+Dereck Lively II,12,2023.0,Center,Mavericks,22,0,0,0,0,0,0,8.8,2.4,7.5,1
+Isaiah Livers,42,2021.0,Forward,Suns,27,0,0,0,0,0,0,6.7,1.1,3.0,0
+Kevon Looney,30,2015.0,Forward,Pelicans,30,0,2,0,0,0,0,7.0,2.5,9.3,1
+Brook Lopez,10,2008.0,Center,Clippers,37,1,1,0,0,0,1,20.7,2.3,8.6,1
+Caleb Love,61,,Guard,Trail Blazers,24,0,0,0,0,0,0,11.3,2.7,2.5,0
+Kevin Love,5,2008.0,Forward,Jazz,37,1,1,0,0,1,0,26.1,4.4,15.2,1
+Kyle Lowry,24,2006.0,Guard,76ers,39,1,1,0,0,1,0,22.4,8.7,5.6,1
+Khaman Maluach,10,2025.0,Center,Suns,19,0,0,0,0,0,0,2.0,0.1,2.0,0
+Sandro Mamukelashvili,54,2021.0,Forward,Raptors,26,0,0,0,0,0,0,10.9,1.9,4.9,0
+Terance Mann,48,2019.0,Guard,Nets,29,0,0,0,0,0,0,10.8,3.2,5.2,1
+Tre Mann,18,2021.0,Guard,Hornets,25,0,0,0,0,0,0,14.1,4.0,3.6,0
+Lauri Markkanen,7,2017.0,Forward,Jazz,28,1,0,0,0,0,0,26.7,2.1,9.0,0
+Naji Marshall,61,,Forward,Mavericks,28,0,0,0,0,0,0,15.0,3.1,4.8,1
+Alijah Martin,39,2025.0,Guard,Raptors,24,0,0,0,0,0,0,2.4,0.6,1.0,0
+Caleb Martin,61,,Forward,Mavericks,30,0,0,0,0,0,0,10.0,2.2,4.8,1
+Tyrese Martin,51,2022.0,Forward,76ers,27,0,0,0,0,0,0,8.7,2.0,3.7,0
+Bennedict Mathurin,6,2022.0,Guard,Clippers,23,0,0,0,0,0,0,17.9,2.3,5.7,1
+Karlo Matković,52,2022.0,Forward,Pelicans,24,0,0,0,0,0,0,7.7,1.1,5.0,0
+Tyrese Maxey,21,2020.0,Guard,76ers,25,1,0,0,0,0,0,29.0,6.7,4.1,1
+Chris Mañon,61,,Guard,Lakers,24,0,0,0,0,0,0,0.3,0.2,1.0,0
+Miles McBride,36,2021.0,Guard,Knicks,25,0,0,0,0,0,0,12.9,2.9,2.6,1
+Jared McCain,16,2024.0,Guard,Thunder,22,0,0,0,0,0,0,15.3,2.6,2.4,0
+Mac McClung,61,,Guard,Bulls,27,0,0,0,0,0,0,12.5,4.5,5.0,0
+CJ McCollum,10,2013.0,Guard,Hawks,34,0,0,0,0,0,0,23.1,5.7,4.4,1
+T.J. McConnell,61,2015.0,Guard,Pacers,33,0,0,0,0,0,0,10.2,6.6,3.7,1
+Kevin McCullar Jr.,56,2024.0,Guard,Knicks,24,0,0,0,0,0,0,1.9,1.1,2.0,0
+Jaden McDaniels,28,2020.0,Forward,Timberwolves,25,0,0,0,0,0,1,14.9,2.8,5.7,1
+Doug McDermott,11,2014.0,Forward,Kings,34,0,0,0,0,0,0,13.6,1.4,3.3,1
+Bryce McGowens,40,2022.0,Guard,Pelicans,23,0,0,0,0,0,0,8.1,1.5,2.1,0
+Jordan McLaughlin,61,,Guard,Spurs,29,0,0,0,0,0,0,7.6,4.2,2.1,1
+Liam McNeeley,29,2025.0,Forward,Hornets,20,0,0,0,0,0,0,4.1,0.8,2.1,0
+De'Anthony Melton,46,2018.0,Guard,Warriors,27,0,0,0,0,0,0,12.7,3.2,4.5,1
+Sam Merrill,60,2020.0,Guard,Cavaliers,29,0,1,0,0,0,0,12.9,2.2,2.3,1
+Khris Middleton,39,2012.0,Forward,Mavericks,34,1,1,0,0,0,0,20.9,5.4,6.2,1
+Brandon Miller,2,2023.0,Forward,Hornets,23,0,0,0,0,0,0,21.0,3.6,5.0,0
+Emanuel Miller,61,,Forward,Spurs,25,0,0,0,0,0,0,3.0,0.8,1.3,0
+Jordan Miller,48,2023.0,Guard,Clippers,26,0,0,0,0,0,0,9.4,2.0,3.0,1
+Leonard Miller,33,2023.0,Forward,Bulls,22,0,0,0,0,0,0,3.4,0.5,1.8,1
+Riley Minix,61,,Forward,Cavaliers,25,0,0,0,0,0,0,3.0,0.3,2.0,0
+Josh Minott,45,2022.0,Forward,Nets,23,0,0,0,0,0,0,5.4,0.9,3.3,1
+Yves Missi,21,2024.0,Center,Pelicans,21,0,0,0,0,0,0,9.1,1.4,8.2,0
+Ajay Mitchell,38,2024.0,Guard,Thunder,23,0,1,0,0,0,0,14.1,3.7,3.5,1
+Davion Mitchell,9,2021.0,Guard,Heat,27,0,0,0,0,0,0,11.5,6.8,2.6,1
+Donovan Mitchell,13,2017.0,Guard,Cavaliers,29,1,0,0,0,1,0,28.6,6.1,5.1,1
+Evan Mobley,3,2021.0,Center,Cavaliers,24,1,0,0,1,1,1,18.5,3.7,9.4,1
+Jonathan Mogbo,31,2024.0,Forward,Raptors,24,0,0,0,0,0,0,6.2,2.3,4.9,0
+Malik Monk,11,2017.0,Guard,Kings,28,0,0,0,0,0,0,17.2,5.6,3.8,1
+Moses Moody,14,2021.0,Guard,Warriors,23,0,1,0,0,0,0,11.9,1.6,3.3,1
+Wendell Moore Jr.,26,2022.0,Guard,Pistons,24,0,0,0,0,0,0,4.2,1.2,2.6,1
+Ja Morant,2,2019.0,Guard,Grizzlies,26,1,0,0,0,1,0,27.4,8.1,5.9,1
+Trey Murphy III,17,2021.0,Forward,Pelicans,25,0,0,0,0,0,0,22.0,3.8,5.6,1
+Dejounte Murray,29,2016.0,Guard,Pelicans,29,1,0,0,0,0,1,22.5,9.2,8.3,1
+Jamal Murray,7,2016.0,Guard,Nuggets,29,1,1,0,0,0,0,25.5,7.2,4.3,1
+Keegan Murray,4,2022.0,Forward,Kings,25,0,0,0,0,0,0,15.2,1.7,6.7,1
+Kris Murray,23,2023.0,Forward,Trail Blazers,25,0,0,0,0,0,0,6.1,1.3,3.8,0
+Collin Murray-Boyles,9,2025.0,Forward,Raptors,20,0,0,0,0,0,0,7.8,2.0,5.0,0
+Svi Mykhailiuk,47,2018.0,Guard,Jazz,28,0,1,0,0,0,0,9.1,2.0,2.5,1
+Pete Nance,61,,Forward,Bucks,26,0,0,0,0,0,0,4.7,0.8,2.0,0
+Larry Nance Jr.,27,2015.0,Forward,Cavaliers,33,0,0,0,0,0,0,10.1,3.2,8.2,1
+Andrew Nembhard,31,2022.0,Guard,Pacers,26,0,0,0,0,0,0,17.1,7.4,3.3,1
+Ryan Nembhard,61,,Guard,Mavericks,22,0,0,0,0,0,0,6.5,4.7,1.8,0
+Aaron Nesmith,14,2020.0,Guard,Pacers,26,0,0,0,0,0,0,12.6,2.1,4.5,1
+Asa Newell,23,2025.0,Forward,Hawks,20,0,0,0,0,0,0,5.0,0.5,2.0,0
+Georges Niang,50,2016.0,Forward,Hawks,32,0,0,0,0,0,0,9.9,1.4,3.4,1
+Yanic Konan Niederhäuser,30,2025.0,Center,Clippers,22,0,0,0,0,0,0,4.3,0.3,2.9,0
+Zeke Nnaji,22,2020.0,Forward,Nuggets,25,0,1,0,0,0,0,6.6,0.6,3.6,1
+Jusuf Nurkić,16,2014.0,Center,Jazz,31,0,0,0,0,0,0,17.6,4.8,11.1,1
+Royce O'Neale,61,,Forward,Suns,32,0,0,0,0,0,0,9.8,3.7,6.8,1
+Josh Okogie,20,2018.0,Guard,Rockets,27,0,0,0,0,0,0,8.6,1.6,4.3,1
+Onyeka Okongwu,6,2020.0,Forward,Hawks,25,0,0,0,0,0,0,16.1,3.3,8.9,1
+Isaac Okoro,5,2020.0,Forward,Bulls,25,0,0,0,0,0,0,9.6,1.9,3.1,1
+Lachlan Olbrich,55,2025.0,Center,Bulls,22,0,0,0,0,0,0,1.3,0.7,2.1,0
+Kelly Olynyk,13,2013.0,Forward,Spurs,34,0,0,0,0,0,0,13.5,4.4,7.0,1
+Kelly Oubre Jr.,15,2015.0,Forward,76ers,30,0,0,0,0,0,0,20.3,1.8,6.4,1
+Gary Payton II,61,,Guard,Warriors,33,0,1,0,0,0,0,7.1,2.2,3.5,1
+Micah Peavy,40,2025.0,Guard,Pelicans,24,0,0,0,0,0,0,4.1,0.9,1.9,0
+Noah Penda,32,2025.0,Guard,Magic,21,0,0,0,0,0,0,4.6,1.2,3.7,0
+Taelon Peter,54,2025.0,Guard,Pacers,24,0,0,0,0,0,0,3.6,1.1,1.3,0
+Julian Phillips,35,2023.0,Forward,Timberwolves,22,0,0,0,0,0,0,4.6,0.5,2.1,0
+Jalen Pickett,32,2023.0,Guard,Nuggets,26,0,0,0,0,0,0,5.3,2.5,2.5,1
+Scotty Pippen Jr.,61,,Guard,Grizzlies,25,0,0,0,0,0,0,12.9,4.7,3.3,1
+Daeqwon Plowden,61,,Guard,Kings,27,0,0,0,0,0,0,7.4,1.2,2.9,0
+Mason Plumlee,22,2013.0,Forward,Spurs,36,0,0,0,0,0,0,10.8,3.6,9.3,1
+Brandin Podziemski,19,2023.0,Guard,Warriors,23,0,0,0,0,0,0,12.7,3.7,5.8,1
+Jakob Poeltl,9,2016.0,Center,Raptors,30,0,0,0,0,0,0,14.5,2.8,9.6,1
+Jordan Poole,28,2019.0,Guard,Pelicans,26,0,1,0,0,0,0,20.5,4.5,3.4,1
+Craig Porter Jr.,61,,Guard,Cavaliers,26,0,0,0,0,0,0,5.6,3.3,3.3,1
+Kevin Porter Jr.,30,2019.0,Guard,Bucks,25,0,0,0,0,0,0,19.2,7.4,5.3,1
+Michael Porter Jr.,14,2018.0,Forward,Nets,27,0,1,0,0,0,0,24.3,3.1,7.3,1
+Bobby Portis,22,2015.0,Forward,Bucks,31,0,1,0,0,0,0,14.6,2.1,9.6,1
+Kristaps Porziņģis,4,2015.0,Forward,Warriors,30,1,1,0,0,0,0,23.2,2.7,9.5,1
+Quinten Post,52,2024.0,Center,Warriors,25,0,0,0,0,0,0,8.1,1.4,4.1,1
+Drake Powell,22,2025.0,Guard,Nets,20,0,0,0,0,0,0,6.0,1.5,1.7,0
+Dwight Powell,45,2014.0,Forward,Mavericks,34,0,0,0,0,0,0,10.6,1.5,5.7,1
+Norman Powell,46,2015.0,Guard,Heat,32,1,1,0,0,0,0,22.5,2.6,3.7,1
+Taurean Prince,12,2016.0,Forward,Bucks,31,0,0,0,0,0,0,14.1,2.6,6.0,1
+Payton Pritchard,26,2020.0,Guard,Celtics,28,0,1,0,0,0,0,16.9,5.4,4.1,1
+Tyrese Proctor,49,2025.0,Guard,Cavaliers,21,0,0,0,0,0,0,4.8,1.3,1.0,0
+Olivier-Maxence Prosper,24,2023.0,Forward,Grizzlies,23,0,0,0,0,0,0,7.9,1.0,3.2,1
+Derik Queen,13,2025.0,Center,Pelicans,21,0,0,0,0,0,0,11.9,3.9,7.1,0
+Neemias Queta,39,2021.0,Center,Celtics,26,0,1,0,0,0,0,10.0,1.5,8.4,1
+Immanuel Quickley,25,2020.0,Guard,Raptors,26,0,0,0,0,0,0,17.3,6.2,4.2,1
+Julius Randle,7,2014.0,Forward,Timberwolves,31,1,0,0,0,1,0,25.1,6.0,10.2,1
+Maxime Raynaud,42,2025.0,Center,Kings,22,0,0,0,0,0,0,10.9,1.2,7.2,0
+Austin Reaves,61,,Guard,Lakers,27,0,0,0,0,0,0,23.5,5.8,4.7,1
+Paul Reed,58,2020.0,Forward,Pistons,26,0,0,0,0,0,0,7.3,1.3,6.0,1
+Antonio Reeves,47,2024.0,Guard,Hornets,25,0,0,0,0,0,0,6.9,0.9,1.4,0
+Naz Reid,61,,Center,Timberwolves,26,0,0,0,0,0,0,14.2,2.4,6.4,1
+Will Richard,56,2025.0,Guard,Warriors,23,0,0,0,0,0,0,7.0,1.4,2.5,0
+Nick Richards,42,2020.0,Center,Bulls,28,0,0,0,0,0,0,9.7,0.9,8.2,0
+Jase Richardson,25,2025.0,Guard,Magic,20,0,0,0,0,0,0,4.6,1.2,1.2,0
+Will Riley,21,2025.0,Forward,Wizards,20,0,0,0,0,0,0,8.2,1.6,2.5,0
+Zaccharie Risacher,1,2024.0,Forward,Hawks,20,0,0,0,0,0,0,12.6,1.3,3.7,0
+Duncan Robinson,61,,Forward,Pistons,31,0,0,0,0,0,0,13.5,2.8,3.5,1
+Mitchell Robinson,36,2018.0,Center,Knicks,27,0,0,0,0,0,0,9.7,0.9,9.4,1
+Ryan Rollins,44,2022.0,Guard,Bucks,23,0,0,0,0,0,0,16.7,5.5,4.7,1
+Jackson Rowe,61,,Forward,Warriors,29,0,0,0,0,0,0,3.7,0.7,1.8,0
+Terry Rozier,16,2015.0,Guard,Heat,31,0,0,0,0,0,0,21.1,5.6,4.7,1
+Rayan Rupert,43,2023.0,Guard,Grizzlies,21,0,0,0,0,0,0,4.0,1.6,2.4,0
+D'Angelo Russell,2,2015.0,Guard,Wizards,30,1,0,0,0,0,0,23.1,7.1,3.9,1
+Domantas Sabonis,11,2016.0,Forward,Kings,29,1,0,0,0,1,0,20.3,8.2,13.9,1
+Tidjane Salaün,6,2024.0,Forward,Hornets,20,0,0,0,0,0,0,6.2,1.2,4.7,0
+Kobe Sanders,50,2025.0,Guard,Clippers,23,0,0,0,0,0,0,7.0,1.6,2.4,0
+Gui Santos,55,2022.0,Forward,Warriors,23,0,0,0,0,0,0,7.2,1.8,3.6,1
+Ben Saraf,26,2025.0,Guard,Nets,19,0,0,0,0,0,0,5.0,2.7,1.4,0
+Alex Sarr,2,2024.0,Center,Wizards,20,0,0,0,0,0,0,16.9,2.8,7.7,0
+Marcus Sasser,25,2023.0,Guard,Pistons,25,0,0,0,0,0,0,8.3,3.3,1.8,0
+Baylor Scheierman,30,2024.0,Guard,Celtics,25,0,0,0,0,0,0,4.8,1.2,3.2,1
+Dennis Schröder,17,2013.0,Guard,Cavaliers,32,0,0,0,0,0,0,19.4,6.3,3.6,1
+Alperen Sengun,16,2021.0,Center,Rockets,23,1,0,0,0,0,0,21.1,6.1,10.3,1
+Brice Sensabaugh,28,2023.0,Forward,Jazz,22,0,0,0,0,0,0,12.7,1.7,3.2,0
+Collin Sexton,8,2018.0,Guard,Bulls,27,0,0,0,0,0,0,24.3,4.9,3.3,0
+Landry Shamet,26,2018.0,Guard,Knicks,28,0,0,0,0,0,0,10.1,2.3,1.9,1
+Terrence Shannon Jr.,27,2024.0,Guard,Timberwolves,25,0,0,0,0,0,0,4.3,1.0,1.5,1
+Day'Ron Sharpe,29,2021.0,Center,Nets,24,0,0,0,0,0,0,8.5,2.3,6.7,1
+Shaedon Sharpe,7,2022.0,Guard,Trail Blazers,22,0,0,0,0,0,0,21.4,2.9,5.0,0
+Jamal Shead,45,2024.0,Guard,Raptors,23,0,0,0,0,0,0,7.1,5.2,2.0,0
+Ben Sheppard,26,2023.0,Guard,Pacers,24,0,0,0,0,0,0,6.9,1.8,3.1,1
+Reed Sheppard,3,2024.0,Guard,Rockets,21,0,0,0,0,0,0,13.6,3.3,2.7,1
+Max Shulga,57,2025.0,Guard,Celtics,23,0,0,0,0,0,0,0.0,0.0,0.0,0
+Pascal Siakam,27,2016.0,Forward,Pacers,31,1,1,0,0,1,0,24.2,5.8,8.5,1
+Anfernee Simons,24,2018.0,Guard,Bulls,26,0,0,0,0,0,0,22.6,5.5,3.6,1
+KJ Simpson,42,2024.0,Guard,Nuggets,23,0,0,0,0,0,0,7.8,3.1,3.0,0
+Jericho Sims,58,2021.0,Center,Bucks,27,0,0,0,0,0,0,4.0,1.1,5.0,1
+Javon Small,48,2025.0,Guard,Grizzlies,23,0,0,0,0,0,0,7.6,3.5,2.8,0
+Marcus Smart,6,2014.0,Guard,Lakers,32,0,0,0,1,0,1,14.5,6.3,4.2,1
+Dru Smith,61,,Guard,Heat,28,0,0,0,0,0,0,6.2,2.6,2.6,0
+Jalen Smith,10,2020.0,Forward,Bulls,25,0,0,0,0,0,0,10.1,1.3,6.9,1
+Tolu Smith,61,,Forward,Pistons,25,0,0,0,0,0,0,14.0,0.9,8.0,0
+Jabari Smith Jr.,3,2022.0,Forward,Rockets,22,0,0,0,0,0,0,15.3,1.8,8.1,1
+Nick Smith Jr.,27,2023.0,Guard,Lakers,21,0,0,0,0,0,0,9.9,2.4,2.1,0
+Jeremy Sochan,9,2022.0,Forward,Knicks,22,0,0,0,0,0,0,11.6,3.4,6.5,0
+Thomas Sorber,15,2025.0,Center,Thunder,20,0,0,0,0,0,0,,,,0
+Cam Spencer,53,2024.0,Guard,Grizzlies,25,0,0,0,0,0,0,11.4,5.5,2.7,0
+Pat Spencer,61,,Guard,Warriors,29,0,0,0,0,0,0,6.4,3.4,2.2,1
+Isaiah Stevens,61,,Guard,Kings,25,0,0,0,0,0,0,3.3,3.3,1.0,0
+Isaiah Stewart,16,2020.0,Forward,Pistons,24,0,0,0,0,0,0,11.3,1.7,8.7,1
+Julian Strawther,29,2023.0,Guard,Nuggets,23,0,0,0,0,0,0,9.0,1.3,2.2,1
+Max Strus,61,,Guard,Cavaliers,29,0,0,0,0,0,0,12.2,4.0,4.8,1
+Jalen Suggs,5,2021.0,Guard,Magic,24,0,0,0,0,0,1,16.2,5.3,4.0,1
+Jae'Sean Tate,61,,Forward,Rockets,30,0,0,0,0,0,0,11.8,2.8,5.4,0
+Jayson Tatum,3,2017.0,Forward,Celtics,28,1,1,0,0,1,0,30.1,6.0,8.8,1
+Garrett Temple,61,,Guard,Raptors,39,0,0,0,0,0,0,10.3,2.6,3.5,1
+Dalen Terry,18,2022.0,Forward,76ers,23,0,0,0,0,0,0,4.5,1.4,1.9,0
+Adou Thiero,36,2025.0,Guard,Lakers,21,0,0,0,0,0,0,1.6,0.3,1.1,0
+Cam Thomas,27,2021.0,Guard,Bucks,24,0,0,0,0,0,0,24.0,3.8,3.3,1
+Amen Thompson,4,2023.0,Guard,Rockets,23,0,0,0,0,0,1,17.6,5.3,8.2,1
+Ausar Thompson,5,2023.0,Guard,Pistons,23,0,0,0,0,0,0,10.2,2.9,6.4,1
+Klay Thompson,11,2011.0,Guard,Mavericks,36,1,4,0,0,1,1,22.3,2.9,4.1,1
+Matisse Thybulle,20,2019.0,Guard,Trail Blazers,29,0,0,0,0,0,1,7.5,1.9,3.5,1
+Xavier Tillman,35,2020.0,Forward,Hornets,27,0,1,0,0,0,0,7.0,1.6,5.0,1
+Nae'Qwan Tomlin,61,,Forward,Cavaliers,25,0,0,0,0,0,0,7.2,0.8,4.2,0
+John Tonje,53,2025.0,Guard,Celtics,24,0,0,0,0,0,0,0.7,0.3,0.7,0
+Nikola Topić,12,2024.0,Guard,Thunder,20,0,1,0,0,0,0,3.2,2.0,1.6,0
+Obi Toppin,8,2020.0,Forward,Pacers,28,0,0,0,0,0,0,10.5,1.6,4.4,1
+Karl-Anthony Towns,1,2015.0,Center,Knicks,30,1,0,0,0,1,0,26.5,4.8,12.8,1
+Nolan Traore,19,2025.0,Guard,Nets,19,0,0,0,0,0,0,8.2,3.7,1.6,0
+Gary Trent Jr.,37,2018.0,Guard,Bucks,27,0,0,0,0,0,0,18.3,2.0,2.7,1
+Oscar Tshiebwe,61,,Forward,Jazz,26,0,0,0,0,0,0,7.6,0.8,8.7,0
+Myles Turner,11,2015.0,Center,Bucks,29,0,0,0,0,0,0,18.0,1.6,7.5,1
+Jaylon Tyson,20,2024.0,Guard,Cavaliers,23,0,0,0,0,0,0,13.5,2.2,5.3,1
+Jonas Valančiūnas,5,2011.0,Center,Nuggets,33,0,0,0,0,0,0,17.8,2.6,12.5,1
+Fred VanVleet,61,,Guard,Rockets,32,1,1,0,0,0,0,20.3,8.1,4.4,1
+Jarred Vanderbilt,41,2018.0,Forward,Lakers,26,0,0,0,0,0,0,7.9,2.4,8.4,1
+Devin Vassell,11,2020.0,Guard,Spurs,25,0,0,0,0,0,0,19.5,4.1,4.3,0
+Gabe Vincent,61,,Guard,Hawks,29,0,0,0,0,0,0,9.4,3.1,2.1,1
+Tristan Vukcevic,42,2023.0,Forward,Wizards,22,0,0,0,0,0,0,9.4,1.3,3.7,0
+Nikola Vučević,16,2011.0,Center,Celtics,35,1,0,0,0,0,0,23.4,3.8,12.0,1
+Dean Wade,61,,Forward,Cavaliers,29,0,0,0,0,0,0,6.0,1.6,4.2,1
+Franz Wagner,8,2021.0,Forward,Magic,24,0,0,0,0,0,0,24.2,4.7,5.8,1
+Moritz Wagner,25,2018.0,Forward,Magic,28,0,0,0,0,0,0,12.9,1.5,4.9,1
+Jabari Walker,57,2022.0,Forward,76ers,23,0,0,0,0,0,0,8.9,1.0,7.1,0
+Jarace Walker,8,2023.0,Forward,Pacers,22,0,0,0,0,0,0,11.2,2.3,5.0,1
+Cason Wallace,10,2023.0,Guard,Thunder,22,0,1,0,0,0,0,8.9,2.7,3.4,1
+Keaton Wallace,61,,Guard,Hawks,27,0,0,0,0,0,0,5.4,2.6,1.6,0
+Jordan Walsh,38,2023.0,Guard,Celtics,22,0,1,0,0,0,0,5.3,0.8,4.2,1
+Ja'Kobe Walter,19,2024.0,Guard,Raptors,21,0,0,0,0,0,0,8.6,1.6,3.1,0
+Kel'el Ware,15,2024.0,Center,Heat,21,0,0,0,0,0,0,11.4,0.9,9.3,1
+P.J. Washington,12,2019.0,Forward,Mavericks,27,0,0,0,0,0,0,15.7,2.5,7.8,1
+Lindy Waters III,61,,Forward,Spurs,28,0,0,0,0,0,0,8.0,1.0,2.9,1
+Trendon Watford,61,,Guard,76ers,25,0,0,0,0,0,0,10.2,2.6,4.1,0
+Jamir Watkins,43,2025.0,Forward,Wizards,24,0,0,0,0,0,0,5.9,0.9,3.5,0
+Peyton Watson,30,2022.0,Guard,Nuggets,23,0,1,0,0,0,0,14.9,2.0,4.9,1
+Jaylen Wells,39,2024.0,Forward,Grizzlies,22,0,0,0,0,0,0,12.6,1.7,3.4,0
+Victor Wembanyama,1,2023.0,Forward,Spurs,22,1,0,0,0,0,1,24.3,3.9,11.1,0
+Blake Wesley,25,2022.0,Guard,Trail Blazers,22,0,0,0,0,0,0,5.5,2.7,2.2,0
+Russell Westbrook,4,2008.0,Guard,Kings,37,1,0,1,0,1,0,31.6,11.7,11.5,1
+Coby White,7,2019.0,Guard,Hornets,26,0,0,0,0,0,0,20.4,5.1,4.5,1
+Derrick White,29,2017.0,Guard,Celtics,31,0,1,0,0,0,1,17.2,5.7,4.5,1
+Cam Whitmore,20,2023.0,Forward,Wizards,21,0,0,0,0,0,0,12.3,1.0,3.8,1
+Aaron Wiggins,55,2021.0,Guard,Thunder,27,0,1,0,0,0,0,12.0,1.9,3.9,1
+Andrew Wiggins,1,2014.0,Forward,Heat,31,1,1,0,0,0,0,23.6,3.7,5.1,1
+Amari Williams,46,2025.0,Forward,Celtics,24,0,0,0,0,0,0,1.3,0.4,1.8,0
+Brandon Williams,61,,Guard,Mavericks,26,0,0,0,0,0,0,13.1,3.9,3.1,0
+Cody Williams,10,2024.0,Forward,Jazz,21,0,0,0,0,0,0,6.1,1.2,2.6,0
+Grant Williams,22,2019.0,Forward,Hornets,27,0,0,0,0,0,0,10.4,2.3,5.1,1
+Jalen Williams,12,2022.0,Guard,Thunder,24,1,1,0,0,1,1,21.6,5.4,5.3,1
+Jaylin Williams,34,2022.0,Forward,Thunder,23,0,1,0,0,0,0,7.1,2.6,5.6,1
+Kenrich Williams,61,,Guard,Thunder,31,0,1,0,0,0,0,8.0,2.3,4.9,1
+Mark Williams,15,2022.0,Center,Suns,24,0,0,0,0,0,0,15.3,2.5,10.2,0
+Patrick Williams,4,2020.0,Forward,Bulls,24,0,0,0,0,0,0,10.2,2.0,4.6,1
+Ziaire Williams,10,2021.0,Forward,Nets,24,0,0,0,0,0,0,10.0,1.5,4.6,1
+Robert Williams III,27,2018.0,Center,Trail Blazers,28,0,0,0,0,0,1,10.0,2.0,9.6,1
+Vince Williams Jr.,47,2022.0,Guard,Jazz,25,0,0,0,0,0,0,10.0,4.2,5.6,1
+Zion Williamson,1,2019.0,Forward,Pelicans,25,1,0,0,0,0,0,27.0,5.3,7.2,0
+Jalen Wilson,51,2023.0,Forward,Nets,25,0,0,0,0,0,0,9.5,1.8,3.4,0
+Danny Wolf,27,2025.0,Forward,Nets,21,0,0,0,0,0,0,8.7,2.3,4.6,0
+Guerschon Yabusele,16,2016.0,Forward,Bulls,30,0,0,0,0,0,0,11.0,2.1,5.6,1
+Yang Hansen,16,2025.0,Center,Trail Blazers,20,0,0,0,0,0,0,2.2,0.6,1.5,0
+Jahmir Young,61,,Guard,Heat,25,0,0,0,0,0,0,1.8,1.0,0.5,0
+Trae Young,5,2018.0,Guard,Wizards,27,1,0,0,0,1,0,29.6,11.6,4.3,1
+Chris Youngblood,61,,Guard,Trail Blazers,24,0,0,0,0,0,0,2.0,0.3,0.9,0
+Rocco Zikarsky,45,2025.0,Center,Timberwolves,19,0,0,0,0,0,0,1.0,0.0,0.5,0
+Ivica Zubac,32,2016.0,Center,Pacers,28,0,0,0,0,0,1,16.8,2.7,12.6,1
+Tristan da Silva,18,2024.0,Forward,Magic,24,0,0,0,0,0,0,9.0,1.5,3.7,1

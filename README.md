@@ -1,4 +1,7 @@
-# NBA Akinator
+# NBA Akinator 🏀
+A Python desktop game inspired by Akinator that guesses which NBA player you are thinking of by asking a series of questions about their career.
+
+The game uses real NBA data pulled from the NBA Stats API to generate player attributes and intelligently narrow down possible players.
 
 ## Environment setup
 ```

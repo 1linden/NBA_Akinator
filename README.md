@@ -17,7 +17,7 @@ A Python desktop game inspired by Akinator that guesses which NBA player you are
 - 🎨 **Dynamic UI reactions**
   - Neutral background normally
   - Happy background after multiple **Yes** answers
-  - Frustrated background after multiple **No** answers
+  - Mad background after multiple **No** answers
 - 🔢 **Question counter**  
   Tracks how many questions the engine used before guessing.
 - 🎯 **Fallback guessing**  
@@ -30,23 +30,33 @@ The engine may ask questions like:
 - Has the player made an All-Star team?
 - Has the player ever averaged 30 PPG for a season?
 - Has the player ever played in the Playoffs?
+
 These questions progressively narrow down the player pool.
+
+## Project Structure
+nba-akinator/
+│
+├── app.py                # Tkinter UI
+├── engine.py             # Question selection + guessing logic
+├── questions.py          # Question definitions
+├── build_dataset.py      # Script to generate the player CSV
+│
+├── active_nba_players.csv
+│
+├── UI_Background/
+│   ├── background_happy.png
+│   ├── background_mad.png
+│   └── background_neutral.png
+│
+└── images/
+    ├── start_screen.png
+    ├── question_screen.png
+    └── guess_screen.png
 
 ## Environment setup
 ```
 pip install -r requirements.txt
 ```
-
-## Repo structure:
-- `app.py`
-- `collect_data.py`
-- `engine.py`
-- `questions.py`
-- `UI_Background/`
-    - `background_happy.png`
-    - `background_mad.png`
-    - `background_neutral.png`
-- `active_nba_players.csv`
 
 ## Execution
 ```

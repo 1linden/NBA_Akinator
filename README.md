@@ -30,7 +30,6 @@ The engine may ask questions like:
 - Has the player made an All-Star team?
 - Has the player ever averaged 30 PPG for a season?
 - Has the player ever played in the Playoffs?
-
 These questions progressively narrow down the player pool.
 
 ## Environment setup

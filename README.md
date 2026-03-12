@@ -67,13 +67,19 @@ python app.py
 ```
 
 ## How the Guessing Engine Works
-1. Start with all players as candidates
-2. Ask questions that best split the remaining players
-3. Remove players inconsistent with answers
-4. Repeat until:
-  * one player remains
-  * or no remaining question can split players further
-If the engine cannot narrow the players further, it makes a random guess among the remaining candidates.
+
+1. Start with all players as candidates.
+
+2. Ask questions that best split the remaining players.
+
+3. Remove players that are inconsistent with the user's answers.
+
+4. Repeat the process until:
+
+   - Only one player remains, **or**
+   - No remaining question can further split the remaining players.
+
+If the engine cannot narrow the players any further, it makes a **random guess** from the remaining candidates.
 
 ## Technologies Used
 - Python  

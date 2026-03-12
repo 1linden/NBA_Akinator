@@ -57,11 +57,11 @@ git clone https://github.com/1linden/NBA_Akinator.git
 ```
 pip install -r requirements.txt
 ```
-### 3. Building the Player Dataset
+### 3. Build the Player Dataset
 ```
 python build_dataset.py
 ```
-### 4. Running the Game
+### 4. Run the Game
 ```
 python app.py
 ```

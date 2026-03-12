@@ -34,7 +34,6 @@ The engine may ask questions like:
 These questions progressively narrow down the player pool.
 
 ## Project Structure:
-All code and results must be pushed to this repository:
 - `app.py`
 - `build_dataset.py`
 - `engine.py`

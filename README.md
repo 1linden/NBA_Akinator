@@ -34,24 +34,24 @@ The engine may ask questions like:
 These questions progressively narrow down the player pool.
 
 ## Project Structure
-nba-akinator/
-│
-├── app.py                # Tkinter UI
-├── engine.py             # Question selection + guessing logic
-├── questions.py          # Question definitions
-├── build_dataset.py      # Script to generate the player CSV
-│
-├── active_nba_players.csv
-│
-├── UI_Background/
-│   ├── background_happy.png
-│   ├── background_mad.png
-│   └── background_neutral.png
-│
-└── images/
-    ├── start_screen.png
-    ├── question_screen.png
-    └── guess_screen.png
+nba-akinator/  
+│  
+├── app.py                # Tkinter UI  
+├── engine.py             # Question selection + guessing logic  
+├── questions.py          # Question definitions  
+├── build_dataset.py      # Script to generate the player CSV  
+│  
+├── active_nba_players.csv  
+│  
+├── UI_Background/  
+│   ├── background_happy.png  
+│   ├── background_mad.png  
+│   └── background_neutral.png  
+│  
+└── images/  
+    ├── start_screen.png  
+    ├── question_screen.png  
+    └── guess_screen.png  
 
 ## Environment setup
 ```
@@ -64,8 +64,8 @@ python app.py
 ```
 
 ## Technologies Used
-Technologies Used
-Python
-Tkinter – desktop GUI
-Pandas – dataset processing
+Technologies Used  
+Python  
+Tkinter – desktop GUI  
+Pandas – dataset processing  
 NBA Stats API – player data

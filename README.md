@@ -28,8 +28,8 @@ The engine may ask questions like:
 - Was the player drafted in the first round?
 - Does the player primarily play Guard?
 - Has the player made an All-Star team?
-- Has the player ever averaged 30 PPG?
-- Has the player played in the Playoffs?
+- Has the player ever averaged 30 PPG for a season?
+- Has the player ever played in the Playoffs?
 
 These questions progressively narrow down the player pool.
 

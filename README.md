@@ -35,7 +35,7 @@ These questions progressively narrow down the player pool.
 
 ## Dataset
 
-The game builds a dataset of **active NBA players** with attributes such as:
+The game builds a dataset of active NBA players with attributes such as:
 
 | Column | Description |
 |------|-------------|
@@ -43,15 +43,15 @@ The game builds a dataset of **active NBA players** with attributes such as:
 | team | Player's current NBA team |
 | age | Player's age |
 | draft_year | Player's draft year |
-| draft_pick_number | Player's draft pick Number (61 = undrafted) |
-| position | Player's Primary position (G / F / C) |
+| draft_pick_number | Player's draft pick number (61 = undrafted) |
+| position | Player's primary position (G / F / C) |
 | made_all_star | Whether player has made an All-Star team 
 | made_all_nba | Whether player has made an All-NBA team |
 | made_all_defence | Whether player has made an All-Defense team |
 | won_dpoy | Whether player has won Defensive Player of the Year |
 | won_mvp | Whether player has won Most Valuable Player |
 | played_in_playoffs | Whether player has appeared in the playoffs |
-| num_championships | Number of championships won by Player |
+| num_championships | Number of championships won by blayer |
 | ppg_career_high | Player's highest points per game (season) |
 | apg_career_high | Player's highest assists per game (season) |
 | rpg_career_high | Player's highest rebounds per game (season) |

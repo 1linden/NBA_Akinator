@@ -13,11 +13,11 @@ A Python desktop game inspired by Akinator that guesses which NBA player you are
 - 🧠 **Intelligent question selection**  
   The engine selects questions that best split the remaining players.
 - 📊 **Real NBA data**  
-  Player information is collected using the **NBA Stats API**.
+  Player information is collected using the NBA Stats API.
 - 🎨 **Dynamic UI reactions**
   - Neutral background normally
-  - Happy background after multiple **Yes** answers
-  - Mad background after multiple **No** answers
+  - Happy background after multiple Yes answers
+  - Mad background after multiple No answers
 - 🔢 **Question counter**  
   Tracks how many questions the engine used before guessing.
 - 🎯 **Fallback guessing**  
@@ -73,12 +73,13 @@ python app.py
 3. Remove players who are inconsistent with the user's answers.
 4. Repeat the process until:
    - Only one player remains, **or**
-   - No remaining question can further split the remaining players.
-
-If the engine cannot narrow the players any further, it makes a **random guess** from the remaining candidates.
+   - No remaining question can further split the remaining players, so the engine makes a random guess from the remaining players.
 
 ## Technologies Used
 - Python  
 - Tkinter – desktop GUI  
 - Pandas – dataset processing  
 - NBA Stats API – player data
+
+## License
+This project is for educational purposes and is not affiliated with the NBA.

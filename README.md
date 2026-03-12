@@ -33,25 +33,21 @@ The engine may ask questions like:
 
 These questions progressively narrow down the player pool.
 
-## Project Structure
-nba-akinator/  
-│  
-├── app.py                # Tkinter UI  
-├── engine.py             # Question selection + guessing logic  
-├── questions.py          # Question definitions  
-├── build_dataset.py      # Script to generate the player CSV  
-│  
-├── active_nba_players.csv  
-│  
-├── UI_Background/  
-│   ├── background_happy.png  
-│   ├── background_mad.png  
-│   └── background_neutral.png  
-│  
-└── images/  
-    ├── start_screen.png  
-    ├── question_screen.png  
-    └── guess_screen.png  
+## Project Structure:
+All code and results must be pushed to this repository:
+- `app.py`
+- `build_dataset.py`
+- `engine.py`
+- `questions.py`
+- `UI_Background/`
+    - `background_happy.png`
+    - `background_mad.png`
+    - `background_neutral.png`
+- `images/`
+    - `guess_screen.PNG`
+    - `question_screen.PNG`
+    - `start_screen.PNG`
+- `active_nba_players.csv` 
 
 ## Environment setup
 ```

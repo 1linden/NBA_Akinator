@@ -62,7 +62,7 @@ pip install -r requirements.txt
 ```
 python build_dataset.py
 ```
-##$ 4. Running the Game
+### 4. Running the Game
 ```
 python app.py
 ```

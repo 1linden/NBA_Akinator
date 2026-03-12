@@ -8,13 +8,10 @@ If no remaining question can narrow the candidates further,
 the engine makes a random guess from the remaining players.
 """
 
-from __future__ import annotations
-
+import random
+import pandas as pd
 from dataclasses import dataclass, field
 from typing import Optional
-import random
-
-import pandas as pd
 
 from questions import get_all_questions
 

@@ -1,8 +1,6 @@
 import os
-import tkinter as tk
-from tkinter import messagebox
-
 import pandas as pd
+import tkinter as tk
 
 from engine import AkinatorEngine
 
@@ -32,14 +30,14 @@ class NBAAkinatorApp:
         try:
             self.players_df = pd.read_csv(CSV_FILE)
         except Exception as exc:
-            messagebox.showerror("CSV Error", f"Could not load {CSV_FILE}\n\n{exc}")
+            tk.messagebox.showerror("CSV Error", f"Could not load {CSV_FILE}\n\n{exc}")
             self.root.destroy()
             return
 
         try:
             self.engine = AkinatorEngine(self.players_df)
         except Exception as exc:
-            messagebox.showerror("Engine Errors", str(exc))
+            tk.messagebox.showerror("Engine Errors", str(exc))
             self.root.destroy()
             return
 
@@ -289,7 +287,7 @@ class NBAAkinatorApp:
             self.update_question()
 
         except Exception as exc:
-            messagebox.showerror("Error", str(exc))
+            tk.messagebox.showerror("Error", str(exc))
 
     def show_guess(self) -> None:
         guess = self.engine.guess_player()

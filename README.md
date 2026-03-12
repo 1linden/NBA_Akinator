@@ -1,5 +1,5 @@
 # NBA Akinator 🏀
-A Python desktop game inspired by Akinator that guesses which active NBA player you're thinking of by asking a series of questions about their career. The game uses real NBA data pulled from the NBA Stats API to generate player attributes and intelligently narrow down possible players.
+A Python desktop game inspired by Akinator that guesses which active NBA player you're thinking of by asking a series of questions about their career. The game uses real NBA data pulled from the nba_api to generate player attributes and intelligently narrow down possible players.
 
 ## Demo
 ### Start Screen
@@ -13,7 +13,7 @@ A Python desktop game inspired by Akinator that guesses which active NBA player 
 - 🧠 **Intelligent question selection**  
   The engine selects questions that best split the remaining players.
 - 📊 **Real NBA data**  
-  Player information is collected using the NBA Stats API.
+  Player information is collected using the nba_api.
 - 🎨 **Dynamic UI reactions**
   - Neutral background normally
   - Happy background after multiple Yes answers
@@ -32,6 +32,37 @@ The engine may ask questions like:
 - Has the player ever played in the Playoffs?
 
 These questions progressively narrow down the player pool.
+
+## Dataset
+
+The game builds a dataset of **active NBA players** with attributes such as:
+
+| Column | Description |
+|------|-------------|
+| player_name | Player's full name |
+| team | Player's current NBA team |
+| age | Player's age |
+| draft_year | Player's draft year |
+| draft_pick_number | Player's draft pick Number (61 = undrafted) |
+| position | Player's Primary position (G / F / C) |
+| made_all_star | Whether player has made an All-Star team 
+| made_all_nba | Whether player has made an All-NBA team |
+| made_all_defence | Whether player has made an All-Defense team |
+| won_dpoy | Whether player has won Defensive Player of the Year |
+| won_mvp | Whether player has won Most Valuable Player |
+| num_championships | Number of championships won by Player |
+| ppg_career_high | Player's highest points per game (season) |
+| apg_career_high | Player's highest assists per game (season) |
+| rpg_career_high | Player's highest rebounds per game (season) |
+| played_in_playoffs | Whether player has appeared in the playoffs |
+
+The dataset is generated using:
+
+- `CommonPlayerInfo`
+- `PlayerAwards`
+- `PlayerCareerStats`
+
+from the nba_api.
 
 ## Project Structure:
 - `app.py`
@@ -80,9 +111,9 @@ python app.py
 
 ## Technologies Used
 - Python  
-- Tkinter – desktop GUI  
-- Pandas – dataset processing  
-- NBA Stats API – player data
+- tkinter – desktop GUI  
+- pandas – dataset processing  
+- nba_api – player data
 
 ## License
 This project is for educational purposes and is not affiliated with the NBA.

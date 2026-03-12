@@ -1,5 +1,6 @@
 # NBA Akinator 🏀
-A Python desktop game inspired by Akinator that guesses which NBA player you are thinking of by asking a series of questions about their career. The game uses real NBA data pulled from the NBA Stats API to generate player attributes and intelligently narrow down possible players.
+A Python desktop game inspired by Akinator that guesses which NBA player you are thinking of by asking a series of questions about their career. 
+The game uses real NBA data pulled from the NBA Stats API to generate player attributes and intelligently narrow down possible players.
 
 ## Demo
 ### Start Screen
@@ -72,7 +73,7 @@ python app.py
 2. Ask questions that best split the remaining players.
 3. Remove players who are inconsistent with the user's answers.
 4. Repeat the process until:
-   - Only one player remains, **or**
+   - Only one player remains, or
    - No remaining question can further split the remaining players, so the engine makes a random guess from the remaining players.
 
 ## Technologies Used

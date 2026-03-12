@@ -50,11 +50,11 @@ The game builds a dataset of **active NBA players** with attributes such as:
 | made_all_defence | Whether player has made an All-Defense team |
 | won_dpoy | Whether player has won Defensive Player of the Year |
 | won_mvp | Whether player has won Most Valuable Player |
+| played_in_playoffs | Whether player has appeared in the playoffs |
 | num_championships | Number of championships won by Player |
 | ppg_career_high | Player's highest points per game (season) |
 | apg_career_high | Player's highest assists per game (season) |
 | rpg_career_high | Player's highest rebounds per game (season) |
-| played_in_playoffs | Whether player has appeared in the playoffs |
 
 The dataset is generated using:
 

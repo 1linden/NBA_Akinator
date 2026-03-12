@@ -14,4 +14,9 @@ pip install -r requirements.txt
     - `background_happy.png`
     - `background_mad.png`
     - `background_neutral.png`
-- `active_nba_players.csv` 
+- `active_nba_players.csv`
+
+## Execution
+```
+python app.py
+```

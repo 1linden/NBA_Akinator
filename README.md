@@ -73,7 +73,8 @@ python app.py
 3. Remove players who are inconsistent with the user's answers.
 4. Repeat the process until:
    - Only one player remains, **or**
-   - No remaining question can further split the remaining players.<br>
+   - No remaining question can further split the remaining players.
+
 If the engine cannot narrow the players any further, it makes a **random guess** from the remaining candidates.
 
 ## Technologies Used

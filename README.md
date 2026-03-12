@@ -49,12 +49,12 @@ These questions progressively narrow down the player pool.
 - `active_nba_players.csv` 
 
 ## Installation and Execution
-### 1. Clone the repository
+### 1. Clone the Repository
 ```
 git clone https://github.com/1linden/NBA_Akinator.git
 cd NBA_Akinator
 ```
-### 2. Install dependencies
+### 2. Install Dependencies
 ```
 pip install -r requirements.txt
 ```
@@ -62,8 +62,7 @@ pip install -r requirements.txt
 ```
 python build_dataset.py
 ```
-
-## 4. Running the Game
+##$ 4. Running the Game
 ```
 python app.py
 ```

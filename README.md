@@ -107,7 +107,7 @@ python app.py
 3. Remove players who are inconsistent with the user's answers.
 4. Repeat the process until:
    - Only one player remains, or
-   - No remaining question can further split the remaining players, so the engine makes a random guess from the remaining players.
+   - No more questions can further split the remaining players, so the engine makes a random guess from the remaining players.
 
 ## Technologies Used
 - Python  

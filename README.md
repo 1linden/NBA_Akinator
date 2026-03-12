@@ -17,11 +17,21 @@ A Python desktop game inspired by Akinator that guesses which NBA player you are
 - 🎨 **Dynamic UI reactions**
   - Neutral background normally
   - Happy background after multiple **Yes** answers
-  - Angry background after multiple **No** answers
+  - Frustrated background after multiple **No** answers
 - 🔢 **Question counter**  
   Tracks how many questions the engine used before guessing.
 - 🎯 **Fallback guessing**  
   If no remaining questions can narrow players further, the engine makes a random guess from the remaining candidates.
+
+## Example Questions
+The engine may ask questions like:
+- Was the player drafted in the first round?
+- Does the player primarily play Guard?
+- Has the player made an All-Star team?
+- Has the player ever averaged 30 PPG?
+- Has the player played in the Playoffs?
+
+These questions progressively narrow down the player pool.
 
 ## Environment setup
 ```

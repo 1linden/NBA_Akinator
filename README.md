@@ -3,7 +3,7 @@ A Python desktop game inspired by Akinator that guesses which NBA player you are
 
 ## Demo
 Start Screen
-
+![Start Screen](images/start_screen.PNG)
 Question Screen
 ![Question Screen](images/question_screen.PNG)
 Guess Screen

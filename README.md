@@ -52,7 +52,6 @@ These questions progressively narrow down the player pool.
 ### 1. Clone the Repository
 ```
 git clone https://github.com/1linden/NBA_Akinator.git
-cd NBA_Akinator
 ```
 ### 2. Install Dependencies
 ```

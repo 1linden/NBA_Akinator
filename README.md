@@ -29,3 +29,10 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+
+## Technologies Used
+Technologies Used
+Python
+Tkinter – desktop GUI
+Pandas – dataset processing
+NBA Stats API – player data

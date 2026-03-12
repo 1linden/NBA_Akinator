@@ -71,8 +71,8 @@ python app.py
 2. Ask questions that best split the remaining players
 3. Remove players inconsistent with answers
 4. Repeat until:
-  - one player remains
-  - or no remaining question can split players further
+  * one player remains
+  * or no remaining question can split players further
 If the engine cannot narrow the players further, it makes a random guess among the remaining candidates.
 
 ## Technologies Used

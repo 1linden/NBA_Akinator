@@ -62,6 +62,7 @@ pip install -r requirements.txt
 python build_dataset.py 1
 python build_dataset.py 2
 python build_dataset.py 3
+python build_dataset.py 4
 ```
 ### 4. Run the Game
 ```

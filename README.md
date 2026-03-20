@@ -51,7 +51,7 @@ The game builds a dataset of active NBA players with attributes such as:
 | won_dpoy | Whether player has won Defensive Player of the Year |
 | won_mvp | Whether player has won Most Valuable Player |
 | played_in_playoffs | Whether player has appeared in the playoffs |
-| num_championships | Number of championships won by blayer |
+| num_championships | Number of championships won by player |
 | ppg_career_high | Player's highest points per game (season) |
 | apg_career_high | Player's highest assists per game (season) |
 | rpg_career_high | Player's highest rebounds per game (season) |

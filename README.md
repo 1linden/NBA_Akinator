@@ -21,7 +21,7 @@ A Python desktop game inspired by Akinator that guesses which active NBA player 
 - 🔢 **Question counter**  
   Tracks how many questions the engine used before guessing.
 - 🎯 **Fallback guessing**  
-  If no remaining questions can narrow players further, the engine makes a random guess from the remaining candidates.
+  If further questioning can not narrow players, the engine makes a random guess from the remaining candidates.
 
 ## Example Questions
 The engine may ask questions like:
